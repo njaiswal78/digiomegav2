@@ -3033,7 +3033,7 @@ em.state-invalid {
                -o-transform: none;
                   transform: none; }
       .main-header .navbar .navbar-nav li .btn {
-        padding: 0.5rem; }
+        padding: 0.3rem; }
     .main-header .navbar h5 {
       font-weight: 700;
       font-size: 0.875rem;
@@ -3308,7 +3308,7 @@ em.state-invalid {
           .main-header.sticky-nav .navbar .navbar-nav li a {
             padding: 0.625rem 0; } }
       .main-header.sticky-nav .navbar .navbar-nav .btn {
-        padding: 0.5rem; }
+        padding: 0.3rem; }
     .main-header.sticky-nav .navbar-pos-search {
       margin-top: -30px; }
       .main-header.sticky-nav .navbar-pos-search.nav-trigger {
@@ -3466,7 +3466,7 @@ em.state-invalid {
         .mega-menus .mega-menu-multiple .cart-list .dropdown-menu-container > .dropdown-menu .text-muted {
           margin: -1.3rem 0 0; } }
     .mega-menus .mega-menu-multiple .cart-list .dropdown-menu-container > .dropdown-menu .btn {
-      padding: 0.6rem !important;
+      padding: 0.3rem !important;
       display: block;
       line-height: 1;
       min-width: 100%;
@@ -3850,12 +3850,12 @@ em.state-invalid {
 /******* button styles *******/
 .btn {
   position: relative;
-  padding: 0.9375rem;
+  padding: 0.4375rem;
   letter-spacing: 0.1429rem;
   text-transform: uppercase;
   border: 0.1429rem solid #f57f17;
   color: #fff;
-  min-width: 10rem;
+  min-width: 5rem;
   outline: none;
   font-weight: 500;
   cursor: pointer;
@@ -3921,7 +3921,7 @@ em.state-invalid {
       color: #000; }
   @media only screen and (min-width: 991px) {
     .btn {
-      min-width: 16.9rem; } }
+      min-width: 8.9rem; } }
   .btn:focus {
     outline: none; }
   .btn.btn-arrow {
