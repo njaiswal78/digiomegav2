@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:/index.html
-Sitemap: https://www.digiomega.in/sitemap.xml
