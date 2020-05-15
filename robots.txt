@@ -1,3 +1,4 @@
 User-agent: *
 Disallow:/index.html
+Disallow:bootcamp/index.html
 Sitemap: https://digiomega.in/sitemap.xml
