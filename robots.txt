@@ -1,6 +1,30 @@
-User-agent: *
+User-Agent: *
 Disallow:/index.html
 Disallow:/bootcamp/index.html
 Allow: /
 Allow: /bootcamp
+
+User-Agent: Googlebot
+Allow: /
+Disallow: /banner/
+Disallow: /login/
+
+
+User-Agent: Googlebot-Mobile
+Allow: /
+Disallow: /banner/
+Disallow: /login/
+
+
+User-Agent: Googlebot-Image
+Allow: /
+Disallow: /banner/
+Disallow: /login/
+
+User-Agent: bingbot
+Allow: /
+Disallow: /banner/
+Disallow: /login/
+
+
 Sitemap: https://digiomega.in/sitemap.xml
