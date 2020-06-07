@@ -37,8 +37,9 @@ if(!$mail->Send())
 else
 {
     echo '<script>';
-    echo 'alert("Your request is placed successfuly, digiOmega will reach you within 48 hours. ")';
+    echo 'alert("Your request is placed successfuly, we will reach you within 48 hours. ")';
     echo '</script>';
+    echo "<style='text-align:center;'>Your request is placed successfuly, we will reach you within 48 hours.</style>";
 }
 }
 ?>
