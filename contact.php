@@ -28,7 +28,13 @@ $mail->SetFrom('contact@digiomega.in');
 $mail->AddReplyTo($email);
 $mail->FromName=$first_name." ".$lastname;
 $mail->Subject="New Message from digiOmega Contact Form";
-$mail->Body= "Name: $first_name." ".$last_name\n Phone Number: $phone \n Email: $email \n Message: $message";
+$email_content = "Name: $first_name + $last_name\n";
+$email_content .= "Phone: $phone\n\n";
+$email_content .= "Email: $email\n\n";
+$email_content .= "Message:\n$message\n";
+
+
+$mail->Body=$email_content;
 $mail->addAddress('njaiswal78@gmail.com');
 if(!$mail->Send())
 {
