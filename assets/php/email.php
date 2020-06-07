@@ -19,7 +19,6 @@ error_reporting(E_ALL & ~E_NOTICE);
 
 
 $to="njaiswal78@gmail.com";
-echo $to;
 
 $mail=new PHPMailer();
 $mail->isSMTP();
@@ -44,7 +43,7 @@ if(!$mail->Send())
 }
 else
 {
-   echo "E-mail sent to ".$to;
+   echo "E-mail sent";
 }
 
 
