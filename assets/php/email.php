@@ -1,10 +1,8 @@
 <?php 
-header("Access-Control-Allow-Origin: *");
 require_once('PHPmailer/PHPMailerAutoload.php');
 error_reporting(E_ALL & ~E_NOTICE);
 
 
- if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // Get the form fields and remove whitespace.
         $first_name = strip_tags(trim($_POST["first_name"]));
 		$first_name = str_replace(array("\r","\n"),array(" "," "),$first_name);
@@ -21,7 +19,7 @@ error_reporting(E_ALL & ~E_NOTICE);
             exit;
         }
 
-echo "$first_name";
+echo $first_name;
 
 
 $to="njaiswal78@gmail.com";
@@ -45,11 +43,5 @@ $mail->Subject="Welcome to Socialplayer";
 $mail->Body= "Name: $first_name + $last_name\n Phone: $phone\n\n Email: $email\n\n Message:\n$message\n";
 $mail->AddAddress($to);
 $mail->Send();
-if($mail->Send()){
-	echo "Mail sent";
-}else{
-	echo "Mail not sent";
-}
-
 
 ?>
