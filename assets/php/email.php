@@ -46,7 +46,7 @@ if(!$mail->Send())
 }
 else
 {
-   echo "E-mail sent to $to";
+   echo "E-mail sent to ".$to;
 }
 
 
