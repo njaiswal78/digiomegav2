@@ -1,5 +1,48 @@
 <!DOCTYPE html>
+
+<?php
+    if (isset($_POST['submit'])){
+
+require_once('PHPmailer/PHPMailerAutoload.php');
+
+$first_name=$_POST["first_name"];
+$last_name=$_POST["last_name"];
+$email=$_POST["email"];
+$phone=$_POST["phone_no"];
+$message=$_POST["con_message"];
+
+
+
+$mail=new PHPMailer();
+$mail->isSMTP();
+$mail->SMTPAuth='true';
+$mail->SMTPSecure='ssl';
+$mail->Host="smtp.gmail.com";
+//$mail->Host="smtp.hostinger.in";
+
+$mail->Port='465';
+$mail->isHTML();
+$mail->Username="socialplayerdotin@gmail.com";
+$mail->Password='natrajan807';
+$mail->SetFrom('hello@socialplayer.in');
+$mail->AddReplyTo('hello@socialplayer.in');
+$mail->FromName='Priyanka Singh';
+$mail->Subject="Welcome to Socialplayer";
+$mail->Body= "Name: $first_name + $last_name + $phone + $email + $message";
+$mail->addAddress('njaiswal78@gmail.com');
+if(!$mail->Send())
+{
+   echo "Error sending: " . $mail->ErrorInfo;
+}
+else
+{
+   echo "E-mail sent";
+}
+}
+?>
+
 <html class="no-js" lang="zxx">
+
 
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -152,9 +195,8 @@
                         <h3>Send us a Message</h3>
 
                         <div class="contact-form-wrap">
-                            <form action="assets/php/email.php" method="post"
-                                  id="contact-form">
-                                <div class="row">
+                          <form method="post" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']);?>" id="contact-form"> 
+                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="single-input-item">
                                             <label>
