@@ -35,6 +35,7 @@ $email_content .= "Message:\n $message \n";
 
 $mail->Body=$email_content;
 $mail->addAddress('njaiswal78@gmail.com');
+$mail->addAddress('priyankasingh2993@gmail.com');
 if(!$mail->Send())
 {
    echo "Error sending: " . $mail->ErrorInfo;
