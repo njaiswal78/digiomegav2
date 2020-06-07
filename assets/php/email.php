@@ -40,8 +40,14 @@ $mail->FromName='Priyanka Singh';
 $mail->Subject="Welcome to Socialplayer";
 $mail->Body= "Name: $first_name + $last_name\n Phone: $phone\n\n Email: $email\n\n Message:\n$message\n";
 $mail->AddAddress($to);
-$mail->Send();
-
+if(!$mail->Send())
+{
+   echo "Error sending: " . $mail->ErrorInfo;
+}
+else
+{
+   echo "E-mail sent to $to";
+}
 
 
 ?>
