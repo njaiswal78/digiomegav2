@@ -1,6 +1,5 @@
 <?php 
 
-echo $_POST["first_name"];
 
 
 require_once('/PHPmailer/PHPMailerAutoload.php');
@@ -17,11 +16,10 @@ error_reporting(E_ALL & ~E_NOTICE);
 
         // Check that data was sent to the mailer.
 
-echo $first_name;
 
 
 $to="njaiswal78@gmail.com";
-
+echo $to;
 
 $mail=new PHPMailer();
 $mail->isSMTP();
@@ -38,7 +36,7 @@ $mail->SetFrom('hello@socialplayer.in');
 $mail->AddReplyTo('hello@socialplayer.in');
 $mail->FromName='Priyanka Singh';
 $mail->Subject="Welcome to Socialplayer";
-$mail->Body= "Name: $first_name + $last_name\n Phone: $phone\n\n Email: $email\n\n Message:\n$message\n";
+$mail->Body= "Name: $first_name + $last_name + $phone + $email + $message";
 $mail->AddAddress($to);
 if(!$mail->Send())
 {
