@@ -39,7 +39,7 @@ else
     echo '<script>';
     echo 'alert("Your request is placed successfuly, we will reach you within 48 hours. ")';
     echo '</script>';
-    echo "<style='text-align:center;'>Your request is placed successfuly, we will reach you within 48 hours.</style>";
+    echo "<p style='text-align:center;'>Your request is placed successfuly, we will reach you within 48 hours.</style>";
 }
 }
 ?>
