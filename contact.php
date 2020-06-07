@@ -24,11 +24,11 @@ $mail->Port='465';
 $mail->isHTML();
 $mail->Username="socialplayerdotin@gmail.com";
 $mail->Password='natrajan807';
-$mail->SetFrom('hello@socialplayer.in');
-$mail->AddReplyTo('hello@socialplayer.in');
-$mail->FromName='Priyanka Singh';
-$mail->Subject="Welcome to Socialplayer";
-$mail->Body= "Name: $first_name + $last_name + $phone + $email + $message";
+$mail->SetFrom('contact@digiomega.in');
+$mail->AddReplyTo($email);
+$mail->FromName=$first_name." ".$lastname;
+$mail->Subject="New Message from digiOmega Contact Form";
+$mail->Body= "Name: $first_name." ".$last_name\n Phone Number: $phone \n Email: $email \n Message: $message";
 $mail->addAddress('njaiswal78@gmail.com');
 if(!$mail->Send())
 {
@@ -37,7 +37,7 @@ if(!$mail->Send())
 else
 {
     echo '<script>';
-    echo 'alert("Your request is placed successfuly, we will reach you within 48 hours. ")';
+    echo 'alert("We got your request and we will reach you within 48 hours. ")';
     echo '</script>';
     echo "<p style='text-align:center;'>We got your request and we will reach you within 48 hours.</p>";
 }
