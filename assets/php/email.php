@@ -1,4 +1,9 @@
 <?php 
+
+echo $_POST["first_name"];
+/*
+
+
 require_once('PHPmailer/PHPMailerAutoload.php');
 error_reporting(E_ALL & ~E_NOTICE);
 
@@ -43,5 +48,7 @@ $mail->Subject="Welcome to Socialplayer";
 $mail->Body= "Name: $first_name + $last_name\n Phone: $phone\n\n Email: $email\n\n Message:\n$message\n";
 $mail->AddAddress($to);
 $mail->Send();
+
+*/
 
 ?>
