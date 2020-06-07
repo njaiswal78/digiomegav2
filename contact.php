@@ -169,7 +169,7 @@ else
 
 
 <!--== Start Page Header Area ==-->
-<div class="page-header-area bg-img" data-bg="assets/img/page-header.jpg">
+<div class="page-header-area bg-img" data-bg="assets/img/page-header.jpg" style="background-image: url(assets/img/page-header.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-lg-10 col-xl-8 m-auto text-center">
