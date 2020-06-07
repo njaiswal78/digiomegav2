@@ -1,7 +1,5 @@
 <?php 
 
-
-
 require_once('/PHPmailer/PHPMailerAutoload.php');
 error_reporting(E_ALL & ~E_NOTICE);
 
@@ -18,7 +16,7 @@ error_reporting(E_ALL & ~E_NOTICE);
 
 
 
-$to="njaiswal78@gmail.com";
+$to=$email;
 
 $mail=new PHPMailer();
 $mail->isSMTP();
