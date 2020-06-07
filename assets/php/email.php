@@ -5,15 +5,13 @@ error_reporting(E_ALL & ~E_NOTICE);
 
 
         // Get the form fields and remove whitespace.
-        $first_name = strip_tags(trim($_POST["first_name"]));
-		$first_name = str_replace(array("\r","\n"),array(" "," "),$first_name);
-        $last_name = trim($_POST["last_name"]);
-        $email = filter_var(trim($_POST["email_address"]), FILTER_SANITIZE_EMAIL);
-        $phone = trim($_POST["phone_no"]);
-        $message = trim($_POST["con_message"]);
 
         // Check that data was sent to the mailer.
-
+$first_name=$_POST["first_name"];
+$last_name=$_POST["last_name"];
+$email=$_POST["email"];
+$phone=$_POST["phone_no"];
+$message=$_POST["con_message"];
 
 
 $to=$email;
