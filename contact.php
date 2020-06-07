@@ -7,7 +7,7 @@ require_once('PHPmailer/PHPMailerAutoload.php');
 
 $first_name=$_POST["first_name"];
 $last_name=$_POST["last_name"];
-$email=$_POST["email"];
+$email=$_POST["email_address"];
 $phone=$_POST["phone_no"];
 $message=$_POST["con_message"];
 
