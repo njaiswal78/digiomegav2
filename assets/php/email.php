@@ -13,7 +13,6 @@ $phone=$_POST["phone_no"];
 $message=$_POST["con_message"];
 
 
-$to=$email;
 
 $mail=new PHPMailer();
 $mail->isSMTP();
@@ -31,7 +30,7 @@ $mail->AddReplyTo('hello@socialplayer.in');
 $mail->FromName='Priyanka Singh';
 $mail->Subject="Welcome to Socialplayer";
 $mail->Body= "Name: $first_name + $last_name + $phone + $email + $message";
-$mail->AddAddress($to);
+$mail->addAddress('njaiswal78@gmail.com');
 if(!$mail->Send())
 {
    echo "Error sending: " . $mail->ErrorInfo;
