@@ -201,7 +201,7 @@
                                          <!--   <button class="btn-outline">Send Message Now</button>
                                         --></div>
 
-                                        <div class="form-message"></div>
+                                        <!--<div class="form-message"></div>-->
                                     </div>
                                 </div>
                             </form>
