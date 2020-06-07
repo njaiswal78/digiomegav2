@@ -341,8 +341,8 @@
 <script src="assets/js/plugins/slick.min.js"></script>
 
 <!--=== Active Js ===-->
-<script src="assets/js/active.min.js"></script>
-
+<!--<script src="assets/js/active.min.js"></script>
+-->
 
 
 
