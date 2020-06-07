@@ -3,7 +3,7 @@
 echo $_POST["first_name"];
 
 
-require_once('PHPmailer/PHPMailerAutoload.php');
+require_once('/PHPmailer/PHPMailerAutoload.php');
 error_reporting(E_ALL & ~E_NOTICE);
 
 
