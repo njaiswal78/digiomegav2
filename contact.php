@@ -38,7 +38,7 @@ else
 {
    echo "E-mail sent";
 }
-
+}
 ?>
 
 <html class="no-js" lang="zxx">
