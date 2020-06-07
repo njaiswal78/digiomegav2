@@ -1,7 +1,6 @@
 <?php 
 
 require_once('/PHPmailer/PHPMailerAutoload.php');
-error_reporting(E_ALL & ~E_NOTICE);
 
 
         // Get the form fields and remove whitespace.
