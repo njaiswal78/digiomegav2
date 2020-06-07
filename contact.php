@@ -197,8 +197,9 @@
                                         </div>
 
                                         <div class="single-input-item mb-0 mt-40">
-                                            <button class="btn-outline">Send Message Now</button>
-                                        </div>
+                                            <input type="submit" name="submit" placeholder="Submit" class="btn-outline">
+                                         <!--   <button class="btn-outline">Send Message Now</button>
+                                        --></div>
 
                                         <div class="form-message"></div>
                                     </div>
