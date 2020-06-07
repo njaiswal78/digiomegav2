@@ -1,7 +1,6 @@
 <?php 
 
 echo $_POST["first_name"];
-/*
 
 
 require_once('PHPmailer/PHPMailerAutoload.php');
@@ -17,12 +16,6 @@ error_reporting(E_ALL & ~E_NOTICE);
         $message = trim($_POST["con_message"]);
 
         // Check that data was sent to the mailer.
-        if ( empty($first_name) OR ( empty($last_name) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
-            // Set a 400 (bad request) response code and exit.
-            http_response_code(400);
-            echo "Please complete the form and try again.";
-            exit;
-        }
 
 echo $first_name;
 
@@ -49,6 +42,6 @@ $mail->Body= "Name: $first_name + $last_name\n Phone: $phone\n\n Email: $email\n
 $mail->AddAddress($to);
 $mail->Send();
 
-*/
+
 
 ?>
