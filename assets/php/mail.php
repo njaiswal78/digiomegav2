@@ -20,7 +20,7 @@ header("Access-Control-Allow-Origin: *");
         }
 
         // Set the recipient email address.
-        $recipient = "your@email.here";
+        $recipient = "njaiswal78@gmail.com";
 
         // Set the email subject.
         $subject = "Businex - Mail From $first_name";
