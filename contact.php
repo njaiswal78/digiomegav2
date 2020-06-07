@@ -152,7 +152,7 @@
                         <h3>Send us a Message</h3>
 
                         <div class="contact-form-wrap">
-                            <form action="assets/php/mail.php" method="post"
+                            <form action="assets/php/email.php" method="post"
                                   id="contact-form">
                                 <div class="row">
                                     <div class="col-md-6">
