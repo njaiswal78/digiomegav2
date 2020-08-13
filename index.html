@@ -40,6 +40,35 @@
 	left:40px;
 
 }
+
+
+.dropdown {
+  position: relative;
+  cursor: pointer;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  min-width: 220px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
 </style>
  <meta name="keywords" content="digital marketing service middle east, SEO, Video Designing Services In Middle East, Digital Marketing Services Kuwait, Bahrain, Branding Services In UAE, Social Media Marketing UAE, Campaign and PR Services In UAE" />
 <meta name="description" content="digiOmega provide digital marketings, Video Editing & Campaign & PR services in UAE, Kuwait, Bahrain. "/>
@@ -129,7 +158,29 @@ Get a Free Android, iOS and Web App for Your Business | Limited Offer</u>
 									<li><a href="index.html">Home</a></li>
 								
 							
-									<li><a href="service.html">Services</a></li>
+									<li>
+										
+<div class="dropdown">
+<a href="service.html"></a><span style="    color: #fff;
+    display: block;
+    line-height: 1;
+    letter-spacing: 1.62px;
+    text-transform: uppercase;
+    position: relative;border: 0px solid white;padding-bottom:15px;">Services</span></a>
+  <div class="dropdown-content">
+    <a href="web&app.html">Web & App Development</a>
+    <a href="app.html" style="background-color: lightyellow;">Free Apps & Websites</a>
+    <a href="digital-marketing.html">Digital Marketing</a>
+    <a href="brand&communication.html">Brand & Communication</a>
+    <a href="marketingstrategy.html">Marketing Strategy</a>
+    <a href="video-creation.html">Video Creation</a>
+    <a href="campaign&pr.html">Campaign & PR</a>
+    
+  </div>
+</div>
+
+
+									</li>
 									
 									
 									<li><a href="blog.html">Blog</a></li>
