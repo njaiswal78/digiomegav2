@@ -1,807 +1,91 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://digiomega.in/</loc>
-  <lastmod>2020-06-08T17:58:57+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/bootcamp/</loc>
-  <lastmod>2020-06-08T17:58:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/index.html</loc>
-  <lastmod>2020-06-08T17:58:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/service.html</loc>
-  <lastmod>2020-06-08T17:58:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/contact.php</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/about.html</loc>
-  <lastmod>2020-06-08T17:58:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/web&amp;app.html</loc>
-  <lastmod>2020-06-08T17:58:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/digital-marketing.html</loc>
-  <lastmod>2020-06-08T17:58:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/brand&amp;communication.html</loc>
-  <lastmod>2020-06-08T17:58:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/marketingstrategy.html</loc>
-  <lastmod>2020-06-08T17:58:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/video-creation.html</loc>
-  <lastmod>2020-06-08T17:58:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/campaign&amp;pr.html</loc>
-  <lastmod>2020-06-08T17:58:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/Is-Your-Business-Not-Performing-On-Facebook.html</loc>
-  <lastmod>2020-06-08T17:58:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/How-to-choose-marketing-metrics-for-a-successful-marketing-plan.html</loc>
-  <lastmod>2020-06-08T17:58:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/How-to-get-1000-visitors-traffic-to-your-new-website-on-launch.html</loc>
-  <lastmod>2020-06-08T17:58:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/bootcamp/index.html</loc>
-  <lastmod>2020-06-08T17:58:54+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/bootcamp/referal_program.html</loc>
-  <lastmod>2020-06-08T17:58:54+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/2020/05/27/are-government-bodies-creating-surveillance-state-through-contact-tracing-apps/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/author/njaiswal78gmail-com/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/2020/05/25/is-india-the-next-epicentre-of-covid-19/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/2020/05/09/how-to-get-1000-visitors-traffic-to-your-new-website-on-launch/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/2020/05/13/do-you-know-it-is-now-possible-to-track-your-website-visitors/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/2020/05/13/how-to-choose-marketing-metrics-for-a-successful-marketing-plan/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/2020/05/12/how-to-avoid-hefty-fines-for-your-messaging-program/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/2019/12/27/is-your-business-not-performing-on-facebook/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/2019/12/13/be-where-your-customers-are-is-key-to-growth-hacking-of-b2b-sales-are-you-present-at-right-place/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/2019/12/10/is-your-marketing-team-facing-hard-time-to-enage-website-visitors-and-create-quality-sql/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/2019/12/08/why-messaging-is-critical-to-b2b-business-for-sales-service-and-marketing/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/page/2/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/2020/05/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/2019/12/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/category/chatbot/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/category/contact-tracing/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/category/data-privacy/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/category/lead-capture/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/category/marketing-analytics/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/category/messaging/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/category/publishing/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/category/publishing/seo/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog.html</loc>
-  <lastmod>2020-06-08T17:58:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/aman-app-jordan/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/hamagen/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/aarogya-setu/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/alipay/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/beaware-bahrain/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/bluetooth/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/contact-tracing/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/corona-map-saudi-arabia/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/coronapp/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/coronavirus/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/covid-19/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/covidsafe/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/data-privacy/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/data-protection/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/erouska-efacemask/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/gh-covid-19-tracker-app/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/government-bodies/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/gps/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/mytrace/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/nz-covid-tracer/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/rakning-c-19/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/smittestopp-app-i/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/stopkorona/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/tracetogether/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/virusradar/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/author/njaiswal78gmail-com/page/2/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/chatbots/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/correlation-coefficient/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/covariance/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/dialogflow/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/messenger-bots/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/cost-per-click/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/cost-per-lead/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/google-ads/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/google-analytics-tracking/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/google-search-console/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/impressions/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/linkedin-ads/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/paid-campaigns/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/rank-on-first-page/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/rankmath/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/schema/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/sem/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/serp/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/tags/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/w3org/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/website-seo/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/yoast/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/abm-campaigns/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/ip-tracking/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/lead-generation/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/leadfeeder/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/socialplayer/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/track-website-visitors/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/booked-revenue/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/brand-awareness/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/churn/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/ctr/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/email-marketing-metrics/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/financial-marketing-meteics/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/funnel/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/mql/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/net-promoter-score/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/new-customers/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/new-visitor/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/profit/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/recurring-revenue/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/social-analytics/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/sql/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/targeted-revenue/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/cacl/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/casl/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/consent/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/double-opt-in/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/email-compliance/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/email-opt-in/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/european-regulation/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/fines/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/gdpr/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/mobile-opt-in/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/opt-in/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/opt-out/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/sms-complaince/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/sms-magic/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/tcpa/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/trai/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/comment/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/content-marketing/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/engagement/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/facebook-page/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/social-media-post/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/tag-people/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/b2b-sales/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/business-messaging/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/line/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/messenger/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/viber/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/wechat/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/whatsapp/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/actionable-sqls/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/automated-conversations-on-bots/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/capture-intent/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/omnichannel/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/quality-leads/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/engagement-rate/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/messaging/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/personalised-coversations/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/2019/12/08/scheduling-simplified/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog-details.html</loc>
-  <lastmod>2020-06-08T17:58:57+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/buffer/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/content-curation/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/marketing-plan/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/post-curation/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/post-schedule/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/postify/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/scheduling/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/social-media-management/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://digiomega.in/blog/index.php/tag/social-media-posting/</loc>
-  <lastmod>2020-06-11T02:42:39+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-
-
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://digiomega.in</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://digiomega.in/How-to-get-1000-visitors-traffic-to-your-new-website-on-launch.html</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://digiomega.in/video-creation.html</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://digiomega.in/How-to-choose-marketing-metrics-for-a-successful-marketing-plan.html</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://digiomega.in/digital-marketing.html</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://digiomega.in/contact.php</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://digiomega.in/marketingstrategy.html</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://digiomega.in/campaign&amp;pr.html</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://digiomega.in/web&amp;app.html</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://digiomega.in/brand&amp;communication.html</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://digiomega.in/blog.html</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://digiomega.in/about.html</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://digiomega.in/app.html</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://digiomega.in/service.html</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://digiomega.in/blog-details.html</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://digiomega.in/grocery.html</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://digiomega.in/ecommerce.html</loc>
+    <lastmod>2020-08-13</lastmod>
+    <changefreq>always</changefreq>
+  </url>
 </urlset>
+<!--<guid value="d2c1fba9-cf99-48af-b950-49d1f09d6007" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
