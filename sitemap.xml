@@ -1,91 +1,142 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
-    <loc>https://digiomega.in</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
-  <url>
-    <loc>https://digiomega.in/How-to-get-1000-visitors-traffic-to-your-new-website-on-launch.html</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
-  <url>
-    <loc>https://digiomega.in/video-creation.html</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
-  <url>
-    <loc>https://digiomega.in/How-to-choose-marketing-metrics-for-a-successful-marketing-plan.html</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
-  <url>
-    <loc>https://digiomega.in/digital-marketing.html</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
-  <url>
-    <loc>https://digiomega.in/contact.php</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
-  <url>
-    <loc>https://digiomega.in/marketingstrategy.html</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
-  <url>
-    <loc>https://digiomega.in/campaign&amp;pr.html</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
-  <url>
-    <loc>https://digiomega.in/web&amp;app.html</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
-  <url>
-    <loc>https://digiomega.in/brand&amp;communication.html</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
-  <url>
-    <loc>https://digiomega.in/blog.html</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
-  <url>
-    <loc>https://digiomega.in/about.html</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
-  <url>
-    <loc>https://digiomega.in/app.html</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
-  <url>
-    <loc>https://digiomega.in/service.html</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
-  <url>
-    <loc>https://digiomega.in/blog-details.html</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
-  <url>
-    <loc>https://digiomega.in/grocery.html</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
-  <url>
-    <loc>https://digiomega.in/ecommerce.html</loc>
-    <lastmod>2020-08-13</lastmod>
-    <changefreq>always</changefreq>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://digiomega.in/</loc>
+  <lastmod>2020-08-16T19:55:41+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/app.html</loc>
+  <lastmod>2020-08-16T20:46:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/index.html</loc>
+  <lastmod>2020-08-16T19:55:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/service.html</loc>
+  <lastmod>2020-08-13T21:23:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/web&amp;app.html</loc>
+  <lastmod>2020-08-13T21:23:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/digital-marketing.html</loc>
+  <lastmod>2020-08-13T21:23:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/brand&amp;communication.html</loc>
+  <lastmod>2020-08-13T21:23:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/marketingstrategy.html</loc>
+  <lastmod>2020-08-13T21:23:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/video-creation.html</loc>
+  <lastmod>2020-08-13T21:23:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/campaign&amp;pr.html</loc>
+  <lastmod>2020-08-13T21:23:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/blog.html</loc>
+  <lastmod>2020-08-13T21:23:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/contact.php</loc>
+  <lastmod>2020-08-16T20:49:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/about.html</loc>
+  <lastmod>2020-08-13T21:23:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/Is-Your-Business-Not-Performing-On-Facebook.html</loc>
+  <lastmod>2020-08-13T21:32:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/How-to-choose-marketing-metrics-for-a-successful-marketing-plan.html</loc>
+  <lastmod>2020-08-13T21:32:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/How-to-get-1000-visitors-traffic-to-your-new-website-on-launch.html</loc>
+  <lastmod>2020-08-13T21:32:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/grocery.html</loc>
+  <lastmod>2020-08-16T20:46:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/ecommerce.html</loc>
+  <lastmod>2020-08-16T20:46:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/taxi-booking.html</loc>
+  <lastmod>2020-08-16T20:29:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/urbanclap.html</loc>
+  <lastmod>2020-08-16T20:46:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/videostreaming.html</loc>
+  <lastmod>2020-08-16T20:46:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/khatabook.html</loc>
+  <lastmod>2020-08-16T20:46:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/blog-details.html</loc>
+  <lastmod>2020-08-13T21:23:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/contact.html</loc>
+  <lastmod>2020-08-16T19:55:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/hotsarclone.html</loc>
+  <lastmod>2020-08-16T19:55:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://digiomega.in/khatabookclone.html</loc>
+  <lastmod>2020-08-16T19:55:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
-<!--<guid value="d2c1fba9-cf99-48af-b950-49d1f09d6007" />-->
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
