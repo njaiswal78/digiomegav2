@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-131916419-1');
+</script>
+<meta name="keywords" content="digital marketing services middle east, SEO, Video Designing Services In Middle East, Digital Marketing Services Kuwait, Bahrain, Branding Services In UAE, Social Media Marketing UAE, Campaign and PR Services In UAE" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Middle East; Digital Marketing Services In UAE | digiOmega" />
+<meta property="og:description" content="Let digiOmega take your Digital Marketing to the next level. We specialize in - Marketing Strategy, Lead Generation, Campaign& PR, Branding,SEO, PPC, Video & Graphic Creation, &amp; more." />
+<meta property="og:url" content="https://digiomega.in/How-to-choose-marketing-metrics-for-a-successful-marketing-plan.html" />
+<meta property="og:site_name" content="digiOmega" />
+
+
+<meta property="og:image" content="https://digiOmega.in/assets/img/blog/blog-details.png">
+
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://digiOmega.in/How-to-choose-marketing-metrics-for-a-successful-marketing-plan.html">
+<meta property="twitter:title" content="Middle East; Digital Marketing Services In UAE | digiOmega" />
+<meta property="twitter:description" content="Let digiOmega take your Digital Marketing to the next level. We specialize in - Marketing Strategy, Lead Generation, Campaign& PR, Branding,SEO, PPC, Video & Graphic Creation, &amp; more." />
+<meta property="twitter:image" content="https://digiOmega.in/assets/img/blog/blog-details.png">
+
+
+<style>
+.float{
+	position:fixed;
+	width:80px;
+	height:60px;
+	bottom:40px;
+	left:40px;
+
+}
+
+
+.dropdown {
+  position: relative;
+  cursor: pointer;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  min-width: 220px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+
+    <title>Blog:Why you should use chatbot on your website
+?</title>
+
+<link href="https://digiomega.in/How-to-choose-marketing-metrics-for-a-successful-marketing-plan.html" rel="canonical">
+    <!--== Favicon ==-->
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon"/>
+	
+	
+
+    <!--== Google Fonts ==-->
+    
+
+    <!--== All Animate CSS ==-->
+    <link href="assets/css/animate.min.css" rel="stylesheet"/>
+    <!--== All FontAwesome CSS ==-->
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet"/>
+    <!--== All Material Icons CSS ==-->
+    <link href="assets/css/materialdesignicons.min.css" rel="stylesheet"/>
+    <!--== All Helper CSS ==-->
+    <link href="assets/css/helper.min.css" rel="stylesheet"/>
+    <!--== All Revolution CSS ==-->
+    <link href="assets/css/settings.css" rel="stylesheet"/>
+    <!--== All Slicknav CSS ==-->
+    <link href="assets/css/slicknav.min.css" rel="stylesheet"/>
+    
+    <!--== All Slick Slider CSS ==-->
+    <link href="assets/css/slick.min.css" rel="stylesheet"/>
+    <!--== All BootStrap CSS ==-->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet"/>
+    <!--== Main Style CSS ==-->
+    <link href="assets/css/style.min.css" rel="stylesheet"/>
+
+    <!--[if lt IE 9]>
+    <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2864756660439220');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2864756660439220&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --></head>
+
+<body>
+	<!--== Start Header Area Wrapper ==-->
+	<header class="header-area">
+				<a href="app.html"><marquee width="90%" direction="left" height="20px" style="color: white;margin-top: -50px;"><u>
+Get a Free Android, iOS and Web App for Your Business | Limited Offer</u>
+</marquee></a>
+
+		<div class="container">
+			<div class="row align-items-center">
+
+				<div class="col-5 col-lg-2">
+					<!-- Start Logo Area -->
+					<div class="logo-area">
+						<a href="index.html"><img src="assets/img/logo.png" alt="digiOmega-Logo"></a>
+					</div>
+					<!-- End Logo Area -->
+				</div>
+
+				<div class="col-lg-7 d-none d-lg-block">
+					<!-- Start Navigation Area -->
+					<div class="navigation-area mt-lg-3">
+						<ul class="main-menu nav">
+						   
+									<li><a href="index.html">Home</a></li>
+								
+							
+									<li><div class="dropdown">
+<a href="service.html"><span style="    color: #fff;
+    display: block;
+    line-height: 1;
+    letter-spacing: 1.62px;
+    text-transform: uppercase;
+    position: relative;border: 0px solid white;padding-bottom:15px;">Services</span></a>
+  <div class="dropdown-content">
+    <a href="web&app.html">Web & App Development</a>
+    <a href="app.html" style="background-color: lightyellow;">Free Apps & Websites</a>
+    <a href="digital-marketing.html">Digital Marketing</a>
+    <a href="brand&communication.html">Brand & Communication</a>
+    <a href="marketingstrategy.html">Marketing Strategy</a>
+    <a href="video-creation.html">Video Creation</a>
+    <a href="campaign&pr.html">Campaign & PR</a>
+    
+  </div>
+</div></li>
+									
+									
+									<li><a href="blog.html">Blog</a></li>
+									
+							<li><a href="contact.php">Contact</a></li>
+						<li><a href="http://hosting.digiomega.in">Get Domains & Hosting	</a></li>
+
+						
+						</ul>
+					</div>
+					<!-- End Navigation Area -->
+				</div>
+
+				<div class="col-7 col-lg-3">
+					<!-- Start Header Action Area -->
+					<div class="header-action mt-lg-3 text-right">
+                       <a href="https://meetings.hubspot.com/rajan5"><span class="btn-outline">Book a Meeting</span></a>
+                        
+                        <button class="btn-menu d-lg-none"><i class="fa fa-bars"></i></button>
+                    </div>
+					<!-- End Header Action Area -->
+				</div>
+			</div>
+		</div>
+	</header>
+	<!--== End Header Area Wrapper ==-->
+
+
+<!--== Start Page Header Area ==--
+<div class="page-header-area bg-img" data-bg="assets/img/page-header.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 col-xl-8 m-auto text-center">
+                <div class="page-header-content-inner">
+                    <div class="page-header-content">
+                        <h1>Blog Details</h1>
+                        <p>digiOmega always try to provide the best Business Solutions for Clinets
+                            to grow up their Business very sharply and smoothly.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--== End Page Header Area ==-->
+
+
+<!--== Start Blog Details Page Content ==-->
+<div class="blog-details-page-content sp-y">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9">
+                <article class="blog-post-details">
+                    <figure class="blog-post-thumb">
+                        <img src="assets/img/blog/How-to-choose-marketing-metrics-for-a-successful-marketing-plan.png" alt="Blog"/>
+                    </figure>
+
+                    <div class="blog-post-txt">
+                        <h2 class="h3">Why you should use chatbot on your website
+?</h2>
+
+                        <p>What is chatbot?<br>
+A chatbot is a programmed chat interface a website visitor can interact with.
+They are programmed to closely mimic human behavior & interact with the website visitor in a conversational manner.
+There are two main types of chatbot:<br>
+<ul><li>Simple chatbot</li>
+<li>Advanced chatbot</li></ul>
+<br>
+<b>Simple chatbot                                                                                                        </b>    <br>             
+Simple chatbot respond to pre-written keywords or command programmed by a developer. These bots are simple and limited when I come to communication. for example, if a website visitor were to ask a bot a question or type in words that did not hit any of those specific keywords or phrases the bot was programmed to recognize, the bot would fail to understand.
+</br>
+<b>Advanced chatbot</b>
+</br>
+Advanced chatbot use AI (artificial intelligence) when communicating with online visitors. This allows them to understand basic language & communication and respond with multiple suggestion, without the need of pre-programmed keyword or phrases being entered.
+An AI chatbot is not a human but your online visitor will be able to have a nature back and forth conversation, making them feel as if they were chatting with a person in your office.
+</p>
+
+              
+
+                        <figure class="blog-post-img" style="margin-left: 18%;" >
+                            <img src="assets/img/blog/blog-details-2.png" alt="Blog"/>
+                        </figure>
+
+                            <h3 class="h3">Qualify Leads</h3>
+							<p> Getting a user on your website is half the battle. The second challenge is to keep them there. Chatbot greetings can help you prevent users from leaving your site and engage them. These are short chat invitations that let you proactively engage website visitors.
+</p>
+							
+							<h3 class="h3">Automated customer support for similar queries</h3>
+							<p>For any industry type, if you take account the user base, there are some basic question that users generally ask. And for these specific question, same specific answers are required to be answered every time the customer makes the similar query. Well, for such purposes chatbot is the best engaging way to answer these common questions
+</p>
+						<h3 class="h3">Save human resources for qualitative tasks
+</h3>
+							<p>Chatbot can be used to assist or consumer for a specific task, whenever they want. And as chatbot do not get tired or bored, hence can be employed to provide customer service round the clock. In other term, the human resources can be freed from such job and should be employed towards more productive business tasks. This will save the cost of customer support.
+</p>	<h3 class="h3">Improve business branding with minimum effort
+</h3>
+							<p>The competition is really getting high, and customer get inclined toward a solution that does not require much trouble and at the same time offers an unlimited solution. In short, they are looking for the more qualitative solution in minimum effort. With chatbots, hitting potential customer is easy by offering required information irrespective of the day or time. bots are less prone to errors hence the better customer experience can help to establish a better brand.
+</p>	
+<h3 class="h3">Chatbot development cost is cheap
+
+</h3>
+							<p>One of the great advantage of chatbot is, it requires less development cost in comparison to application development. Well, making an investment into a quality product like chatbot is worth as it can offer a better experience to your customer.
+</p>
+                    
+                        <h3 class="h3">Chatbot – easy-to-use
+
+</h3>
+							<p>Users adhere to chatbots as it allows easy communication. The simple interface makes it more familiar to the users. This can increase sales and engage customer better to follow the same for your brand.
+
+</p>
+ <h3 class="h3">Cost-effective and time-efficient
+
+
+</h3>
+							<p>Once you get traffic to your website, with the proper use of friendly chatbot engaging visitors become easy and quick. This further help to convert potential traffic into customers. And, just calculate the money spent on customer service labor, here your business can save money and time which might have been used in apps promotion.
+
+</p>
+                    </div>
+                    	<div class="header-action mt-lg-3 text-center" style="background-color: black;">
+                       <a href="https://meetings.hubspot.com/rajan5"><span class="btn-outline">Get your chatbot now</span></a>
+                        
+                        <button class="btn-menu d-lg-none"><i class="fa fa-bars"></i></button>
+                    </div>
+				
+
+                    <div class="share-article text-center">
+                        <h6>Share this article</h6>
+                        <div class="member-social-icons justify-content-center">
+                            <a class="facebook" href="#"><i class="mdi mdi-facebook"></i></a>
+                            <a class="twitter" href="#"><i class="mdi mdi-twitter"></i></a>
+                            <a class="linkedin" href="#"><i class="mdi mdi-linkedin"></i></a>
+                            <a class="pinterest" href="#"><i class="mdi mdi-pinterest"></i></a>
+                        </div>
+                    </div>
+
+                    
+
+                    <!-- Start Single Sidebar Wrap -->
+                    <div class="single-sidebar-item-wrap" style=" padding-top: 50px;">
+                        <div class="sidebar-body">
+                            <div class="sidebar-newsletter">
+                                <h3>Newsletter</h3>
+                                <form action="#" method="post">
+                                    <input type="email" placeholder="Your Email Address"/>
+                                    <button class="btn btn-brand">Subscribe</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                   
+                </aside>
+            </div>
+        </div>
+    </div>
+</div>
+<!--== End Blog Details Page Content ==-->
+
+<!--== Start Footer Area Wrapper ==-->
+	<footer class="footer-area sp-y">
+		<div class="footer-top-wrap">
+			<div class="container">
+				<div class="footer-top-content">
+					<div class="row align-items-center">
+						<div class="col-md-8 col-lg-6">
+							<h2>Get Started Today</h2>
+							<p>digiOmega always try to provide the best Business Solutions for Clinets to grow up their
+								Business sharply and smoothly.</p>
+						</div>
+						<div class="col-md-4 col-lg-6 text-md-right mt-sm-25">
+							<a href="contact.php" class="btn-outline" style="color: #fff; background-color: #000;">Contact Us</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="footer-widget-area sm-top-wt">
+			<div class="container">
+				<div class="row mtn-40">
+					<div class="col-lg-4 order-4 order-lg-0">
+						<div class="widget-item">
+							<div class="about-widget">
+								<a href="index.html"><img src="assets/img/logo-dark.png" alt="Logo"/></a>
+								<p>One Stop Solution For All Your Business Needs</p>
+
+								<div class="copyright-txt">
+								<br>
+									<p>&copy; 2019-20 digiOmega Ltd. All Rights Reserved.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-4 col-lg-2 ml-auto">
+						<div class="widget-item">
+							<h4 class="widget-title">Information</h4>
+							<div class="widget-body">
+								<ul class="widget-list">
+									<li><a href="about.html">Our Company</a></li>
+									<li><a href="contact.php">Contact us</a></li>
+									<li><a href="service.html">Our Services</a></li>
+									<li><a href="https://in.linkedin.com/company/digiomega">Careers</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-4 col-lg-2 ml-auto">
+						<div class="widget-item">
+							<h4 class="widget-title">Quick Links</h4>
+							<div class="widget-body">
+								 <ul class="widget-list">
+									<li><a href="https://www.facebook.com/digiomega.in/">Facebook</a></li>
+									<li><a href="https://in.linkedin.com/company/digiomega">LinkedIn</a></li>
+									<li><a href="https://twitter.com/omega_digi">Twitter</a></li>
+									<li><a href="https://www.instagram.com/digiomega.in/">Instagram</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-4 col-lg-3">
+						<div class="widget-item">
+							<h4 class="widget-title">Contact</h4>
+							<div class="widget-body">
+								<address>
+									A 16, Sion, Mumbai, India <br>
+									https://digiOmega.in<br>
+									(+91) 7388489036
+								</address>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!--== End Footer Area Wrapper ==-->
+
+<!--== End Footer Area Wrapper ==-->
+
+<!-- Scroll Top Button -->
+<button class="btn-scroll-top"><i class="mdi mdi-chevron-up"></i></button>
+
+<a href="https://wa.me/917388489036?text=I%20want%20to%20know%20more%20about%20your%20services" target="_blank" class="float"><img src="1.png" alt="digiOmega_whatsapp" style="height:80px; width:80px;"/></a>
+
+
+
+
+<!--=======================Javascript============================-->
+<script src="assets/js/modernizr-3.6.0.min.js"></script>
+<script src="assets/js/jquery-3.3.1.min.js"></script>
+<script src="assets/js/jquery-migrate-1.2.1.min.js"></script>
+<script src="assets/js/plugins/jquery.appear.js"></script>
+<script src="assets/js/plugins/jquery.slicknav.min.js"></script>
+<script src="assets/js/plugins/slick.min.js"></script>
+
+<!--=== Active Js ===-->
+<script src="assets/js/active.min.js"></script>
+
+
+<!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/8236129.js"></script>
+<!-- End of HubSpot Embed Code --></body>
+
+</html>
