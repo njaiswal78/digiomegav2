@@ -277,58 +277,13 @@ Get a Free Android, iOS and Web App for Your Business | Limited Offer</u>
                         <h3>Send us a Message</h3>
 
                         <div class="contact-form-wrap">
-                          <form method="post" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']);?>" id="contact-form"> 
-                                 <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="single-input-item">
-                                            <label>
-                                                <input type="text" name="first_name" placeholder="First Name *"
-                                                       required/>
-                                            </label>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <div class="single-input-item">
-                                            <label>
-                                                <input type="text" name="last_name" placeholder="Last Name *" required/>
-                                            </label>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <div class="single-input-item">
-                                            <label>
-                                                <input type="email" name="email_address" placeholder="Email address *"
-                                                       required/>
-                                            </label>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <div class="single-input-item">
-                                            <label>
-                                                <input type="text" name="phone_no" placeholder="Your Phone"/>
-                                            </label>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-12">
-                                        <div class="single-input-item">
-                                            <label for="con_message" class="sr-only m-0"></label>
-                                            <textarea name="con_message" id="con_message" cols="30" rows="7"
-                                                      placeholder="Message *" required></textarea>
-                                        </div>
-
-                                        <div class="single-input-item mb-0 mt-40">
-                                            <input type="submit" name="submit" placeholder="Submit" class="btn-outline">
-                                         <!--   <button class="btn-outline">Send Message Now</button>
-                                        --></div>
-
-                                        <!--<div class="form-message"></div>-->
-                                    </div>
-                                </div>
-                            </form>
+                            <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<script>
+  hbspt.forms.create({
+    portalId: "8236129",
+    formId: "44264cdb-a3cd-4efa-9ea2-d86e36c91715"
+});
+</script>
                         </div>
                     </div>
                 </div>
