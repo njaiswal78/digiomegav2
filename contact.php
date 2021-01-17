@@ -223,7 +223,28 @@ Get a Free Android, iOS and Web App for Your Business | Limited Offer</u>
 									</li>
                                     
                                     
-                                    <li><a href="blog.html">Blog</a></li>
+                                    	<li>
+										
+<div class="dropdown">
+<a href="#products"><span style="    color: #fff;
+    display: block;
+    line-height: 1;
+    letter-spacing: 1.62px;
+    text-transform: uppercase;
+    position: relative;border: 0px solid white;padding-bottom:15px;">Products</span></a>
+  <div class="dropdown-content">
+    <a href="https://digi-magic.com?utm_source=digiomega&utm_medium=website&utm_campaign=lisiting">Email Marketing Suite</a>
+    <a href="https://digi-magic.com?utm_source=digiomega&utm_medium=website&utm_campaign=lisiting">SMS Marketing Suite</a>
+    <a href="https://baatcheet.live?utm_source=digiomega&utm_medium=website&utm_campaign=lisiting">WhatsApp Business API</a>
+    <a href="https://baatcheet.live?utm_source=digiomega&utm_medium=website&utm_campaign=lisiting">Conversational Suite</a>
+    <a href="https://dglnk.me?utm_source=digiomega&utm_medium=website&utm_campaign=lisiting">URL Shortener</a>
+    <a href="https://digi-magic.com?utm_source=digiomega&utm_medium=website&utm_campaign=lisiting">Social Suite</a>
+    
+  </div>
+</div>
+
+
+									</li>
                                     
                             <li><a href="contact.php">Contact</a></li>
                         <li><a href="http://hosting.digiomega.in">Get Domains & Hosting </a></li>
