@@ -322,8 +322,7 @@ Get a Free Android, iOS and Web App for Your Business | Limited Offer</u>
                                     <br>
                                     contact@digiOmega.in
                                     <br>
-                                    (+91) 9354367339
-                                </address>
+                                    +1(940)400-0270                                </address>
                             </div>
                             <div class="member-social-icons mt-30">
                                 <a href="https://www.facebook.com/digiomega.in/"><i class="mdi mdi-facebook"></i></a>
@@ -410,8 +409,7 @@ Get a Free Android, iOS and Web App for Your Business | Limited Offer</u>
 								<address>
 									A 16, Sion, Mumbai, India <br>
 									https://digiOmega.in<br>
-									(+91) 9354367339
-								</address>
+									+1(940)400-0270								</address>
 							</div>
 						</div>
 					</div>
